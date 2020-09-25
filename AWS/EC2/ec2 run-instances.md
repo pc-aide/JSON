@@ -2,6 +2,8 @@
 
 ## switch
 * --dry-run - flag [bool] - to test it our command
+* --placement Availabilityzone=String
+	* --placement AvailabilityZone=ca-central-1a
 
 ## Example
 ````json
