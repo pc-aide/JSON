@@ -17,4 +17,9 @@
 ````
 
 ### O/P
+* CloudFormation\Events:
+
+[<img src="https://i.imgur.com/qoyWAl0.png">](https://i.imgur.com/qoyWAl0.png)
+
+* EC2: 
 [<img src="https://i.imgur.com/fJzcb3q.png">](https://i.imgur.com/fJzcb3q.png)
