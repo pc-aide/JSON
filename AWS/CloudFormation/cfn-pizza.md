@@ -840,3 +840,15 @@
 ## O/P
 ### Browswer
 [<img src="https://i.imgur.com/xttmaqk.png">](https://i.imgur.com/xttmaqk.png)
+
+
+### CloudWatch
+* NetworkOut - Insufficient data - nothing vs monitoring ELB !?...
+
+* Alarms: 
+
+[<img src="https://i.imgur.com/3sMt5Vc.png">](https://i.imgur.com/3sMt5Vc.png)
+
+* LB\Monitoring\RequestCount:
+
+[<img src="https://i.imgur.com/5k9964I.png">](https://i.imgur.com/5k9964I.png)
